@@ -13,7 +13,7 @@ Di dalam folder tersebut, setiap tugas praktikum harus diunggah dengan format se
 
 Berikut contoh struktur folder dari repository ini:
 ```
-LAB-WEB-09-2024/
+LAB-WEB-07-2024/
 |-- H071230000 - John Doe/
 |   |-- Tugas Praktikum 1/
 |   |   |-- ...
