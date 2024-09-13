@@ -11,9 +11,38 @@ Contoh: `H071230000 - John Doe`
 
 Di dalam folder tersebut, setiap tugas praktikum harus diunggah dengan format sesuai arahan dari asisten praktikum.
 
+Berikut contoh struktur folder dari repository ini:
+```
+LAB-WEB-09-2024/
+|-- H071230000/
+|   |-- Tugas Praktikum 1/
+|   |   |-- ...
+|   |-- Tugas Praktikum 2/
+|   |   |-- ...
+|   |-- Tugas Praktikum 3/
+|   |   |-- ...
+|   |-- ...
+|-- H071230001/
+|   |-- Tugas Praktikum 1/
+|   |   |-- ...
+|   |-- Tugas Praktikum 2/
+|   |   |-- ...
+|   |-- Tugas Praktikum 3/
+|   |   |-- ...
+|   |-- ...
+|-- H071230002/
+|   |-- Tugas Praktikum 1/
+|   |   |-- ...
+|   |-- Tugas Praktikum 2/
+|   |   |-- ...
+|   |-- Tugas Praktikum 3/
+|   |   |-- ...
+|   |-- ...
+```
+
 ## Daftar Tugas Praktikum
 
-1. **Tugas 1: HTML as Skeleton**
+1. **Tugas Praktikum 1: HTML as Skeleton**
    - Deskripsi: Membuat 2 halaman website statis menggunakan HTML.
    - Deadline: 14 September 2024
 
