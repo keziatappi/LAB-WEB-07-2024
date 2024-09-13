@@ -1,6 +1,6 @@
 # LAB-WEB-09-2024
 
-Repository ini dibuat sebagai wadah pengumpulan tugas praktikum mata kuliah **Praktikum Pemrograman Web 2024**. Setiap mahasiswa diharapkan mengunggah hasil tugas praktikum sesuai dengan instruksi yang telah diberikan oleh dosen atau asisten praktikum.
+Repository ini dibuat sebagai wadah pengumpulan tugas praktikum mata kuliah **Praktikum Pemrograman Web 2024**. Setiap mahasiswa diharapkan mengunggah hasil tugas praktikum sesuai dengan instruksi yang telah diberikan oleh asisten praktikum.
 
 ## Struktur Repository
 
