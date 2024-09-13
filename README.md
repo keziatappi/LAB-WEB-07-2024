@@ -53,7 +53,7 @@ LAB-WEB-07-2024/
 1. **Fork** repository ini ke akun GitHub masing-masing.
 2. **Clone** repository yang telah di-fork ke lokal.
    ```
-   git clone https://github.com/rexhark/LAB-WEB-09-2024.git
+   git clone https://github.com/rexhark/LAB-WEB-07-2024.git
    ```
 3. Buat folder dengan format NIM - Nama Lengkap.
 4. Tambahkan file tugas di dalam folder tersebut (simpan di dalam folder untuk masing-masing tugas).
