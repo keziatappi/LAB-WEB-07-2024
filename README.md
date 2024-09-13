@@ -14,7 +14,7 @@ Di dalam folder tersebut, setiap tugas praktikum harus diunggah dengan format se
 Berikut contoh struktur folder dari repository ini:
 ```
 LAB-WEB-09-2024/
-|-- H071230000/
+|-- H071230000 - John Doe/
 |   |-- Tugas Praktikum 1/
 |   |   |-- ...
 |   |-- Tugas Praktikum 2/
@@ -22,7 +22,7 @@ LAB-WEB-09-2024/
 |   |-- Tugas Praktikum 3/
 |   |   |-- ...
 |   |-- ...
-|-- H071230001/
+|-- H071230001 - Jane Doe/
 |   |-- Tugas Praktikum 1/
 |   |   |-- ...
 |   |-- Tugas Praktikum 2/
@@ -30,7 +30,7 @@ LAB-WEB-09-2024/
 |   |-- Tugas Praktikum 3/
 |   |   |-- ...
 |   |-- ...
-|-- H071230002/
+|-- H071230002 - Foo Bar/
 |   |-- Tugas Praktikum 1/
 |   |   |-- ...
 |   |-- Tugas Praktikum 2/
